@@ -1,0 +1,34 @@
+Algebra Formulas
+
+1. Quadratic Formula:
+   x = (-b ± √(b^2 - 4ac)) / 2a
+
+2. Distance Formula:
+   d = √((x2 - x1)^2 + (y2 - y1)^2)
+
+3. Slope Intercept Form:
+   y = mx + b
+
+4. Pythagorean Theorem:
+   c^2 = a^2 + b^2
+
+5. Exponential Function:
+   f(x) = ab^x
+
+6. Logarithmic Function:
+   f(x) = log_b(x)
+
+7. Binomial Theorem:
+   (a + b)^n = ∑(k=0 to n) (n choose k) a^(n-k) b^k
+
+8. Law of Cosines:
+   c^2 = a^2 + b^2 - 2ab cos(C)
+
+9. Law of Sines:
+   sin(A)/a = sin(B)/b = sin(C)/c
+
+10. Completing the Square:
+    x^2 + bx = -c
+    x^2 + bx + (b/2)^2 = (b/2)^2 - c
+    (x + b/2)^2 = (b/2)^2 - c
+    x = -b/2 ± √((b/2)^2 - c)
